@@ -21,16 +21,11 @@
 </div>
 
 ## Redes sociais
-<div>
-  <a href = "mailto: gildocode7@gmail.com">
-    <img width="30" src="gmail.svg">
-  </a>
-  <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
-    <img width="25" src="linkedin.svg">
-  </a>
-  <a href = "https://www.instagram.com/devparadev/">
-    <img width="25" src="instagram.png">
-  </a>
+<div align="center"> 
+<a href="https://instagram.com/carol_developer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:gildocode7@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gconbat/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
