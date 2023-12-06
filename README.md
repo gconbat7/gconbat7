@@ -5,10 +5,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gconbat7&bg_color=0d1117&color=cc9900&line=009900&point=6600cc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Codar é um modo de pensar
-<div >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gconbat7&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gconbat7&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
+![gconbat7](https://github-readme-stats.vercel.app/api?username=gconbat7&theme=vision-friendly-dark&show_icons=true)
 
 
 <div style="display: flex; justify-content: space-between;"> <br>
@@ -52,4 +49,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{gconbat7}/count.svg" /></p> 
 <br>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cc9900&height=120&section=footer"/>
