@@ -7,8 +7,8 @@
 
 ![gconbat7](https://github-readme-stats.vercel.app/api?username=gconbat7&theme=vision-friendly-dark&show_icons=true)
 
-### Tecnologias que eu mais utilizo
 <div style="display: flex; justify-content: space-between;"> <br>
+  <h3>Tecnologias que utilizo</h3>
   <img align="left"height="150" alt="coding-time" src="code.gif">
   <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -19,10 +19,12 @@
   <img align="center" height="30" width="40" alt="spring" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" height="30" width="40" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" height="30" width="40" alt="postgresql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" height="30" width="40" alt="git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+
 </div>
 
 ### Redes sociais
-<div align="center"> 
+<div align="left"> 
 <a href="https://www.instagram.com/gildocode7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:gildocode7@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gconbat/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
@@ -36,12 +38,14 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Tecnologias que estou estudando
-<div  align="center"> 
+<div  align="left"> 
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <img align="center" height="30" width="40" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" height="30" width="40" alt="spring" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" height="30" width="40" alt="postgresql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">  
+    <img align="center" height="30" width="40" alt="postgresql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+    <img align="center" height="30" width="40" alt="git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     
    </div>
 
