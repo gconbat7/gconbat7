@@ -21,4 +21,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{gconbat7}/count.svg" /></p> 
 <br>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cc9900&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1371aa&height=120&section=footer"/>
