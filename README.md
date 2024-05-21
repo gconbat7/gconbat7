@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cc9900&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=17a3f7&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=009900&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+Gildo+👋🏾;Formado+em+Análise+e+Desenvolvimento+de+Sistemas;Estou+em+transição+de+carreira;Atualmente+trabalho+como;Analista+de+Infraestrutura+Jr👨🏾‍💻)](https://git.io/typing-svg)
 
