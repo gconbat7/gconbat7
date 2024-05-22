@@ -6,6 +6,10 @@
 
 ###
 
+<p align="left"></p>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -16,6 +20,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
@@ -45,13 +51,23 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gconbat7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="135" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gconbat7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="135" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gconbat7&radius=16&theme=github-dark&area=true&order=5" height="341" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gconbat7&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="146" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gconbat7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="119" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gconbat7&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
+<p align="left">Social Media</p>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
+
+###
 
 
 <div align="center">
