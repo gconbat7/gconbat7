@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4d79ff&size=35&center=true&vCenter=true&width=1000&lines=+Bem+vindo!+Eu+sou+Gildo+👋🏾;Formado+em+Análise+e+Desenvolvimento+de+Sistemas;Estou+em+transição+de+carreira;Atualmente+trabalho+como;Analista+de+Infraestrutura👨🏾‍💻)](https://git.io/typing-svg)
 
-<h2 align="left">Techs</h2>
+<h2 align="left">Tecnologias</h2>
 
 ###
 
@@ -31,7 +31,7 @@
 
 ###
 
-<h2 align="left">Studying</h2>
+<h2 align="left">Estudando</h2>
 
 ###
 
@@ -45,7 +45,7 @@
 
 ###
 
-<h2 align="left">Stats</h2>
+<h2 align="left">Status</h2>
 
 ###
 
