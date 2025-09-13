@@ -62,9 +62,9 @@
 </div>
 
 ###
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/gconbat7/gconbat7/output/snake.svg" alt="Snake animation" />
-
+</div>
 ###
 
 <div align="left">
